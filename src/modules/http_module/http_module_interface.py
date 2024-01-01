@@ -2,7 +2,6 @@
 # Author:       Paulo Jacob
 # Description:  Interface by make requests
 # Created at:   12-28-2023
-
 from abc import ABC, abstractmethod
 
 
